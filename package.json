@@ -1,0 +1,15 @@
+{
+  "name": "zapateriadamian2",
+  "version": "1.0.0",
+  "description": "Zapateria Damian Next.js site",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
